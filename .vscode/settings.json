@@ -1,8 +1,9 @@
 {
 	"files.exclude": {
-		"D:/Games Repos/BullCowGame-46fa5739750d4209a3ec06d2bad8b52a9578361c/BullCowGame-starter-kit/.vscode": true,
-		"D:/Games Repos/BullCowGame-46fa5739750d4209a3ec06d2bad8b52a9578361c/BullCowGame-starter-kit/Content": true,
-		"D:/Games Repos/BullCowGame-46fa5739750d4209a3ec06d2bad8b52a9578361c/BullCowGame-starter-kit/Intermediate": true,
-		"D:/Games Repos/BullCowGame-46fa5739750d4209a3ec06d2bad8b52a9578361c/BullCowGame-starter-kit/Saved": true
+		"D:/Games Repos/BullCowGameEasymode/.git": true,
+		"D:/Games Repos/BullCowGameEasymode/.vscode": true,
+		"D:/Games Repos/BullCowGameEasymode/Content": true,
+		"D:/Games Repos/BullCowGameEasymode/Intermediate": true,
+		"D:/Games Repos/BullCowGameEasymode/Saved": true
 	}
 }

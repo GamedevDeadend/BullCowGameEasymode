@@ -28,7 +28,7 @@ void UBullCowCartridge::OnInput(const FString &PlayerInput) // When the player h
 
 void UBullCowCartridge ::SetupGame()
 {
-    int32 difficulty;
+    // int32 difficulty;
     PrintLine(TEXT("The Hidden Word was: %s "), *HiddenWord); // DEBUG PURPOSE ONLY
     PrintLine(TEXT("Welcome to Bull Cows!"));
     PrintLine(TEXT("Select difficlutly level between 1 to 4."));
